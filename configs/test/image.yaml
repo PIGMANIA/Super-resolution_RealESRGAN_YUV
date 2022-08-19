@@ -1,0 +1,4 @@
+common:
+  type: "image"
+  image_path: "/workspace/pigmania/Super-resolution/test_data"
+  save_path: "results"
